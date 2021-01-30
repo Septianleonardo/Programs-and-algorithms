@@ -1,4 +1,4 @@
-# Programs nad Algorithms
+# Programs and Algorithms
 A collection of algorithm programs and c ++ programming, this repo includes:
 
 * Bubble sorting
