@@ -1,12 +1,12 @@
-# Tindog
+# Programs nad Algorithms
 A collection of algorithm programs and c ++ programming, this repo includes:
 
-* Bubble Sorting
+* Bubble sorting
 * Temperature conversion
-* Bubble Sorting
-* Temperature conversion
-* Bubble Sorting
-* Temperature conversion
+* Data input
+* Leap year
+* Employees data input
+* Matrix
 * and others
 
 NOTE: most of these programs are written and commented on in Indonesian
