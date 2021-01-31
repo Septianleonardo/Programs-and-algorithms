@@ -1,5 +1,5 @@
 # Programs and Algorithms
-A collection of algorithm programs and c ++ programming, this repo includes:
+Collection of programs of algorithms and programming in the c ++, this repo includes:
 
 * Bubble sorting
 * Temperature conversion
